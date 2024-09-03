@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cloud, IaC**
 
-- 📫 How to reach me **manishthota02@gmail.com**
+- 📫 How to reach me **thota.manish02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
